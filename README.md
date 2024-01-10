@@ -1,6 +1,6 @@
 # 02514 Deep Learning in Computer Vision
 
-Set of the 3 projects carried out indicidually for the course _02514 Deep Learning in Computer Vision_ at Tehnical University of Denmark (DTU).
+Set of the 3 projects carried out indicidually for the course _02514 Deep Learning in Computer Vision_ at Tehnical University of Denmark (DTU). Everything trained in the DTU High-Performance Cluster (HPC).
 
 ## Image Classification
 
