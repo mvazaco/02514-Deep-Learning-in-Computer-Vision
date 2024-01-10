@@ -12,4 +12,17 @@ A dataset of images containing either hotdogs or something that is not a hotdog 
 
 ## Image Segmentation
 
+Two different datasets for image segmentation:
+
+- PH2: The skin lesion segmentation dataset.
+- DRIVE: The retinal blood vessel segmentation dataset.
+
+Our task is to design a generic segmentation architecture that you apply to both datasets, and perform a thorough validation of your algorithm, including multiple metrics for segmentation performance as well as an ablation study illustrating how different choices of parameters, loss functions, etc impact the performance of your network at your given task. Finally, we compare our architecture to the Segment Anything Model algorithm on a small test set.
+
+![Image Segmentation Poster](https://github.com/mvazaco/02514-Deep-Learning-in-Computer-Vision/blob/main/ImageSegmentation/poster2.jpg)
+
 ## Object Detection
+
+Our project addresses the critical issue of environmental litter by developing a deep learning object detection system. The system aims to automatically identify and locate trash in wild environments, enabling deployment in robotic machines for efficient cleanup of beaches, forests, and roads. The challenge lies in recognizing deformable, transparent, aged, fragmented, occluded, and camouflaged litter, necessitating a model that understands the diverse features of the natural world.
+
+![Object Detection Poster](https://github.com/mvazaco/02514-Deep-Learning-in-Computer-Vision/blob/main/ObjectDetection/poster3.jpg)
